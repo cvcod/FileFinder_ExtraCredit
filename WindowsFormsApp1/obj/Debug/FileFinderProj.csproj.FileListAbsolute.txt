@@ -1,0 +1,10 @@
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FileFinderProj.csproj.GenerateResource.Cache
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FileFinderProj.csproj.CoreCompileInputs.cache
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FileFinderProj.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources

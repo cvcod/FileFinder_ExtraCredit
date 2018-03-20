@@ -1,0 +1,206 @@
+3/20/2018 7:00:28 AM: Search Started
+3/20/2018 7:00:28 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:31 AM: Search Started
+3/20/2018 7:00:32 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:33 AM: Search Started
+3/20/2018 7:00:33 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:36 AM: Search Started
+3/20/2018 7:00:36 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:36 AM: Search Started
+3/20/2018 7:00:36 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:38 AM: Search Started
+3/20/2018 7:00:38 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:40 AM: Search Started
+3/20/2018 7:00:40 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:40 AM: Search Started
+3/20/2018 7:00:40 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:41 AM: Search Started
+3/20/2018 7:00:41 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:43 AM: Search Started
+3/20/2018 7:00:43 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:43 AM: Search Started
+3/20/2018 7:00:43 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:44 AM: Search Started
+3/20/2018 7:00:44 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:45 AM: Search Started
+3/20/2018 7:00:45 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:45 AM: Search Started
+3/20/2018 7:00:45 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:46 AM: Search Started
+3/20/2018 7:00:46 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:47 AM: Search Started
+3/20/2018 7:00:47 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:00:47 AM: Search Started
+3/20/2018 7:00:47 AM: System.UnauthorizedAccessException: Access to the path 'C:\New(2).TXT' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at WindowsFormsApp1.Form1.searchFile(String fileName, String searchString) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 90
+   at WindowsFormsApp1.Form1.btnSearch_Click(Object sender, EventArgs e) in C:\Users\Cleveland Codes\source\repos\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 65
+3/20/2018 7:03:00 AM: Search Started
+3/20/2018 7:03:00 AM: Search Ended
+3/20/2018 7:03:05 AM: Search Started
+3/20/2018 7:03:05 AM: Search Ended
+3/20/2018 7:03:07 AM: Search Started
+3/20/2018 7:03:07 AM: Search Ended
+3/20/2018 7:03:11 AM: Search Started
+3/20/2018 7:03:11 AM: Search Ended
+3/20/2018 7:06:21 AM: Search Started
+3/20/2018 7:06:21 AM: Search Ended
+3/20/2018 7:06:23 AM: Search Started
+3/20/2018 7:06:23 AM: Search Ended
+3/20/2018 7:06:25 AM: Search Started
+3/20/2018 7:06:25 AM: Search Ended
+3/20/2018 7:06:26 AM: Search Started
+3/20/2018 7:06:26 AM: Search Ended
+3/20/2018 7:06:33 AM: Search Started
+3/20/2018 7:06:33 AM: Search Ended
+3/20/2018 7:06:42 AM: Search Started
+3/20/2018 7:06:42 AM: Search Ended
+3/20/2018 7:06:57 AM: Search Started
+3/20/2018 7:06:57 AM: Search Ended
+3/20/2018 7:20:59 AM: Search Started
+3/20/2018 7:20:59 AM: Search Ended
+3/20/2018 7:51:40 AM: Search Started
+3/20/2018 7:51:40 AM: Search Ended
+3/20/2018 7:51:42 AM: Search Started
+3/20/2018 7:51:42 AM: Search Ended
+3/20/2018 7:51:42 AM: Search Started
+3/20/2018 7:51:42 AM: Search Ended
+3/20/2018 7:51:43 AM: Search Started
+3/20/2018 7:51:43 AM: Search Ended
+3/20/2018 7:51:44 AM: Search Started
+3/20/2018 7:51:44 AM: Search Ended
+3/20/2018 7:51:45 AM: Search Started
+3/20/2018 7:51:45 AM: Search Ended
+3/20/2018 7:51:46 AM: Search Started
+3/20/2018 7:51:46 AM: Search Ended
+3/20/2018 7:51:51 AM: Search Started
+3/20/2018 7:51:51 AM: Search Ended
+3/20/2018 9:53:25 AM: Search Started
+3/20/2018 9:53:25 AM: Search Ended
+3/20/2018 10:08:46 AM: Search Started
+3/20/2018 10:08:46 AM: Search Ended
+3/20/2018 10:11:57 AM: Search Started
+3/20/2018 10:11:57 AM: Search Ended
+3/20/2018 10:32:42 AM: Search Started
+3/20/2018 10:32:42 AM: Search Ended
+3/20/2018 10:44:28 AM: Search Started
+3/20/2018 10:44:28 AM: Search Ended
+3/20/2018 10:46:23 AM: Search Started
+3/20/2018 10:46:23 AM: Search Ended
+3/20/2018 10:54:49 AM: Search Started
+3/20/2018 10:54:49 AM: Search Ended
+3/20/2018 11:02:29 AM: Search Started
+3/20/2018 11:02:29 AM: Search Ended
+3/20/2018 11:10:53 AM: Search Started
+3/20/2018 11:10:53 AM: Search Ended
+3/20/2018 11:13:55 AM: Search Started
+3/20/2018 11:13:55 AM: Search Ended
+3/20/2018 11:14:16 AM: Search Started
+3/20/2018 11:14:16 AM: Search Ended
+3/20/2018 11:14:23 AM: Search Started
+3/20/2018 11:14:23 AM: Search Ended
+3/20/2018 11:18:17 AM: Search Started
+3/20/2018 11:18:17 AM: Search Ended
+3/20/2018 11:37:24 AM: Search Started
+3/20/2018 11:37:24 AM: Search Ended
+3/20/2018 1:07:16 PM: Search Started
+3/20/2018 1:07:16 PM: Search Ended
